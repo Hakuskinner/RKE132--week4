@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\Whileloop.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\Whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\Whileloop.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\Whileloop.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\Whileloop.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\bin\Debug\net6.0\Whileloop.exe
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\bin\Debug\net6.0\Whileloop.deps.json
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\bin\Debug\net6.0\Whileloop.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\bin\Debug\net6.0\Whileloop.dll
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\bin\Debug\net6.0\Whileloop.pdb
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\Whileloop.dll
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\refint\Whileloop.dll
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\Whileloop.pdb
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\Whileloop.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week4loops\Whileloop\obj\Debug\net6.0\ref\Whileloop.dll

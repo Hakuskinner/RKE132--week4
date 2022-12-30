@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.exe
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.deps.json
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.dll
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.pdb
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.dll
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\refint\ForLoopSum.dll
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.pdb
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week4loops\ForLoopSum\obj\Debug\net6.0\ref\ForLoopSum.dll

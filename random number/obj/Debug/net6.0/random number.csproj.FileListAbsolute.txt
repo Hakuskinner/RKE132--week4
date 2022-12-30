@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week4loops\random number\bin\Debug\net6.0\random number.exe
+C:\Users\SpireBlack\source\repos\week4loops\random number\bin\Debug\net6.0\random number.deps.json
+C:\Users\SpireBlack\source\repos\week4loops\random number\bin\Debug\net6.0\random number.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week4loops\random number\bin\Debug\net6.0\random number.dll
+C:\Users\SpireBlack\source\repos\week4loops\random number\bin\Debug\net6.0\random number.pdb
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\random number.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\random number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\random number.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\random number.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\random number.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\random number.dll
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\refint\random number.dll
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\random number.pdb
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\random number.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week4loops\random number\obj\Debug\net6.0\ref\random number.dll
